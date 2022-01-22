@@ -6,9 +6,9 @@ require_once("system/Core.php");
 
 const _TOKEN = "--BotToken--";
 const _BOTNAME = "--BotName--";
-const _ADMIN = "--ChatId--";
+const _ADMIN = "--AdminChatId--";
 
-const _ZARCHI_CHANNEL = "--ChannelChatId--";
+const _PROJECTS_CHANNEL = "--ChannelChatId--";
 const _REPORT_CHANNEL = "--ChannelChatId--";
 
 global $config;
