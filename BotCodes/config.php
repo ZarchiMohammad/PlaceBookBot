@@ -5,7 +5,7 @@ require_once("system/Database.php");
 require_once("system/Core.php");
 
 const _TOKEN = "--BotToken--";
-const _BotName = "--BotName--";
+const _BOTNAME = "--BotName--";
 const _ADMIN = "--ChatId--";
 
 const _ZARCHI_CHANNEL = "--ChannelChatId--";
